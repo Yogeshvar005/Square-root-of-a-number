@@ -28,7 +28,7 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![output](square root.png)
+![output](square.PNG)
 
 
 ## Result:
