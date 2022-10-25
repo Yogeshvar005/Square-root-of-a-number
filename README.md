@@ -28,7 +28,8 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![output](\square.PNG)
+![sq](https://user-images.githubusercontent.com/113497367/197702120-4fa2c1bb-91bf-451b-bcff-63fe455291c0.png)
+
 
 
 ## Result:
